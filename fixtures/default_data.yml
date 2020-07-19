@@ -1,0 +1,4 @@
+QA:
+  libs:
+    retrofit: 'retrofit'
+    imagem_android: 'Android-Universal-Image-Loader'
